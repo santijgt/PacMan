@@ -1,1 +1,1 @@
-# PacMan
+Code created using a tutorial for the base game mechanics, but then upgraded by addinf things like the fruits, the superpower that lets PacMan eat the ghosts, and the ghosts pathfinding, as well as a few improvements in the movement controls and animations.
